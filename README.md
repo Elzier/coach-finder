@@ -1,6 +1,6 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Coach_Finder_0"></a>Coach Finder</h1>
 <h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="_develop_yourself_1"></a><em>Develop yourself!</em></h2>
-<p class="has-line-data" data-line-start="4" data-line-end="5">Post pandemic, outdoor activities are getting back on track and Coach Finder, a Vue.js webapp, allows learners to find their ideal coaches to learn new sports and coaches to advertise themselves! With this app, you can:</p>
+<p class="has-line-data" data-line-start="4" data-line-end="5">In times of pandemic, time is not to be wasted and Coach Finder, a Vue.js webapp, allows learners to find their ideal coaches to learn new skills and coaches to advertise themselves! With this app, you can:</p>
 <h5 class="code-line" data-line-start=5 data-line-end=6 ><a id="As_a_student_5"></a>As a student</h5>
 <ul>
 <li class="has-line-data" data-line-start="6" data-line-end="7">Browse all coaching offers or use filter to browse specific postings</li>
@@ -12,7 +12,7 @@
 <li class="has-line-data" data-line-start="10" data-line-end="12">Check student requests and get his/her email for further discussion</li>
 </ul>
 <h2 class="code-line" data-line-start=12 data-line-end=13 ><a id="Demo_12"></a>Demo</h2>
-<p class="has-line-data" data-line-start="13" data-line-end="14">Here is a working live demo : <a href="https://vue-html-demo-337a6.web.app/coaches">Coach Finder</a></p>
+<p class="has-line-data" data-line-start="13" data-line-end="14">Here is a working live demo : <a href="https://coach-finder-fa10f.web.app">Coach Finder</a></p>
 <h2 class="code-line" data-line-start=15 data-line-end=16 ><a id="Walkthrough_15"></a>Walkthrough</h2>
 <p class="has-line-data" data-line-start="16" data-line-end="17">In this section, I will walk through all the important Vue.js skills I learned from this amazing <a href="https://www.udemy.com/course/vuejs-2-the-complete-guide/">online course</a>.</p>
 <h3 class="code-line" data-line-start=18 data-line-end=19 ><a id="Project_Structure_18"></a>Project Structure</h3>
