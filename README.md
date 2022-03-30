@@ -16,7 +16,7 @@
 <h2 class="code-line" data-line-start=15 data-line-end=16 ><a id="Walkthrough_15"></a>Walkthrough</h2>
 <p class="has-line-data" data-line-start="16" data-line-end="17">In this section, I will walk through all the important Vue.js skills I learned from this amazing <a href="https://www.udemy.com/course/vuejs-2-the-complete-guide/">online course</a>.</p>
 <h3 class="code-line" data-line-start=18 data-line-end=19 ><a id="Project_Structure_18"></a>Project Structure</h3>
-<p class="has-line-data" data-line-start="19" data-line-end="20"><img src="https://raw.githubusercontent.com/Elzier/coach-finder/main/public/img/screenshots/Routing.png" alt="project structure"></p>
+<p class="has-line-data" data-line-start="19" data-line-end="20"><img src="https://raw.githubusercontent.com/Elzier/coach-finder/main/public/img/screenshots/Structure.png" alt="project structure"></p>
 <ul>
 <li class="has-line-data" data-line-start="20" data-line-end="21">pages folder - Holds components that are loaded as pages through routing e.g. Login/Signup components</li>
 <li class="has-line-data" data-line-start="21" data-line-end="22">components folder - Other components that are not loaded throgh routing, e.g. Base UI components</li>
@@ -40,7 +40,7 @@
 &lt;/template&gt;
 </code></pre>
 <h3 class="code-line" data-line-start=41 data-line-end=42 ><a id="Routing_41"></a>Routing</h3>
-<p class="has-line-data" data-line-start="42" data-line-end="43"><img src="https://raw.githubusercontent.com/Elzier/coach-finder/main/public/img/screenshots/Structure.png" alt="routing"></p>
+<p class="has-line-data" data-line-start="42" data-line-end="43"><img src="https://raw.githubusercontent.com/Elzier/coach-finder/main/public/img/screenshots/Routing.png" alt="routing"></p>
 <ul>
 <li class="has-line-data" data-line-start="43" data-line-end="44">Created routing logic using the createRouter function from vue-router module.</li>
 <li class="has-line-data" data-line-start="44" data-line-end="46">Used nested route for contacting a specific coach</li>
