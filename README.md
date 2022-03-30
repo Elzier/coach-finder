@@ -40,7 +40,7 @@
 &lt;/template&gt;
 </code></pre>
 <h3 class="code-line" data-line-start=41 data-line-end=42 ><a id="Routing_41"></a>Routing</h3>
-<p class="has-line-data" data-line-start="42" data-line-end="43"><img src="https://raw.github.com/kaichiehuang/coach-finder/main/public/imgs/screenshots/Routing.png" alt="routing"></p>
+<p class="has-line-data" data-line-start="42" data-line-end="43"><img src="https://raw.github.com/elzier/coach-finder/main/public/imgs/screenshots/Routing.png" alt="routing"></p>
 <ul>
 <li class="has-line-data" data-line-start="43" data-line-end="44">Created routing logic using the createRouter function from vue-router module.</li>
 <li class="has-line-data" data-line-start="44" data-line-end="46">Used nested route for contacting a specific coach</li>
