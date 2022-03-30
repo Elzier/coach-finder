@@ -1,5 +1,5 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Coach_Finder_0"></a>Coach Finder</h1>
-<h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="_Go_outside_and_learn_new_stuff__1"></a><em>Go outside and learn new stuff!</em></h2>
+<h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="_develop_yourself_1"></a><em>Develop yourself!</em></h2>
 <p class="has-line-data" data-line-start="4" data-line-end="5">Post pandemic, outdoor activities are getting back on track and Coach Finder, a Vue.js webapp, allows learners to find their ideal coaches to learn new sports and coaches to advertise themselves! With this app, you can:</p>
 <h5 class="code-line" data-line-start=5 data-line-end=6 ><a id="As_a_student_5"></a>As a student</h5>
 <ul>
